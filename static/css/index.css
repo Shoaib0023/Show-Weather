@@ -1,0 +1,13 @@
+body{
+  background: url("https://images.pexels.com/photos/327308/pexels-photo-327308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") ;
+  height: 100%;
+
+    /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#second{
+  margin-left: auto;
+}
